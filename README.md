@@ -1,4 +1,4 @@
-simula una **escena 3D** donde existen los objetos, utiliza un **punto de vista de cámara**
+Simula una **escena 3D** donde existen los objetos, utiliza un **punto de vista de cámara**
 para determinar qué es visible y emplea un **sistema de renderizado**
 para dibujar la imagen final. Los objetos dentro de la escena también se pueden cambiar
 (como rotar) a través de **transformaciones**.
